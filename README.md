@@ -16,7 +16,7 @@ Ez a projekt különböző rendezési algoritmusok teljesítményét méri össz
 - **Gép**: i7-1185G7, 16GB RAM, WIN11
 - **Platform**: .NET 8.0
 - **Konfiguráció**: `Release` build, `x64` platform
-- **BenchmarkDotNet** verzió: 0.13.10
+- **BenchmarkDotNet** verzió: 0.14.0
 - **Adathalmaz mérete**: 10 000 elem (véletlenszerűen permutált)
 
 ## Reprodukálhatóság
