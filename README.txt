@@ -1,3 +1,4 @@
+[🔗 GitHub repó](https://github.com/Ricsi19/performance_test)
 
 Rendezési algoritmusok teljesítménymérése C#-ban
 
